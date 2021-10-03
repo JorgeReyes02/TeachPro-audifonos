@@ -364,3 +364,12 @@ img{
     font-weight: 900;
     border: none;
 }
+
+.footer p{
+    font-family: var(--fuentePrincipal);
+    color: var(--primario);
+    text-transform: uppercase;
+    font-size: 2rem;
+    padding: 2rem 0;
+    font-weight: 900;
+}
