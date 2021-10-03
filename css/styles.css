@@ -269,12 +269,8 @@ img{
     transform: scale(1.1);
     background-size: 30rem;
 }
-@media(max-width:768px) {
-    .modelo:hover{
-        transform: scale(1.1);
-        background-size: 20rem;
-    }
-}
+
+
 @media(min-width: 992px) {
     .modelo{
         margin-bottom: 0;
